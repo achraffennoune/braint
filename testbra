@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.brainguidos.testola",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": " Brain test level 55 how can the bus pass through there. Lalu, klik lingkaran berwarna kuning. Tricky puzzles is a puzzle game featuring many tricky riddles and puzzles. The players can get pleasure from themself."
+		},
+		{
+			"title": "Guide 2",
+			"description": "est your IQ and have tons of fun with these tricky brain games! Think outside the box and you’ll be a champion! Try this addictive puzzle game, train your mind, and prove that you’re the smartest!Easy Game is a challenging and fun thinking game with multiple trivia puzzles and brain teasers.If you like to solve riddles,tricks,sudoku puzzles "
+		},
+		{
+			"title": "Guide 3",
+			"description": " This is what we are devoted to do aiming to help players that stuck in a game. Terakhir, klik lingkaran dengan kata “merah” di dalamnya. Level 54 pilih warna merah! Everything you see on the screen could be used to solve the problem. You can find the answer for next level, brain test level 104 here and all levels answers. "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " About Brain Test Game: “Brain Test is an addictive free tricky puzzle game with a series of tricky brain teasers. Different riddles testing will challenge your mind. This new puzzle game may break common sense and bring your new brain-pushing experience! You can enjoy yourself with your friends with this addictive and funny free IQ game. Get ready to take the quiz!“."
+		},
+		{
+			"title": "Guide 5",
+			"description": "Brain Test consists of many tricky puzzles that make you think outside the box. Therefore, the game brings a new puzzle experience that can be lots of fun and challenging. You can enjoy Brain Test alone in your room, but it can sometimes be even more fun when played with others like friends or family. "
+		}
+	]
+}
